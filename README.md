@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VueTinkeringVueResource
 
 > A Vue.js project
@@ -22,3 +23,6 @@ npm test
 ```
 
 For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+=======
+# VueTinkeringVueResource
+>>>>>>> 028d591fa717bff85febcb2df2b22128809a38d7
